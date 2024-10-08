@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="หน้า-1" id="ESZpaPiUljBr1g-JIUQV">
+    <mxGraphModel dx="1678" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-3" target="WGKu-v9N4l2VmlCT97fO-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-3" value="สร้างหน้าต่าง GUI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="62" y="220" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-7" target="WGKu-v9N4l2VmlCT97fO-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-7" value="เพิ่มค่าลงในสมการ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40.5" y="689" width="219" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-12" target="WGKu-v9N4l2VmlCT97fO-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-12" value="บันทึกสมการลงในประวัติ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="582.75" y="791" width="159" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-29" target="WGKu-v9N4l2VmlCT97fO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-29" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-30" target="WGKu-v9N4l2VmlCT97fO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-30" value="รับค่าการกดปุ่มจากผู้ใช้" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-31" target="WGKu-v9N4l2VmlCT97fO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-36" target="WGKu-v9N4l2VmlCT97fO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-58" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGKu-v9N4l2VmlCT97fO-42">
+          <mxGeometry x="-0.087" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-36" target="WGKu-v9N4l2VmlCT97fO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-55" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGKu-v9N4l2VmlCT97fO-48">
+          <mxGeometry x="0.0182" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-36" value="กดปุ่มตัวเลข/เครื่องหมาย" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="77.75" y="500" width="144.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-40" value="กดปุ่ม C" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="341.25" y="500" width="144.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-43" target="WGKu-v9N4l2VmlCT97fO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-43" value="แสดงค่าปุ่มที่กดไปในช่องแสดงผล" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="810" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-49" target="WGKu-v9N4l2VmlCT97fO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-49" value="ลบค่าทั้งหมดในสมการ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="690" width="219" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-50" target="WGKu-v9N4l2VmlCT97fO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-50" value="ล้างหน้าจอ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="810" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-51" target="WGKu-v9N4l2VmlCT97fO-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="534" y="1040" />
+              <mxPoint x="10" y="1040" />
+              <mxPoint x="10" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="518.5" y="990" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-54" value="กดปุ่ม =" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="144.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-40" target="WGKu-v9N4l2VmlCT97fO-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="610" as="sourcePoint" />
+            <mxPoint x="603" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-60" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGKu-v9N4l2VmlCT97fO-59">
+          <mxGeometry x="0.0182" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-61" target="WGKu-v9N4l2VmlCT97fO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-61" value="คำณวนผลลัพธ์" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="552.75" y="689" width="219" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-62" target="WGKu-v9N4l2VmlCT97fO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-62" value="แสดงผลลัพธ์" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="557.25" y="890" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-40" target="WGKu-v9N4l2VmlCT97fO-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="630" as="sourcePoint" />
+            <mxPoint x="430" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-67" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGKu-v9N4l2VmlCT97fO-66">
+          <mxGeometry x="-0.087" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-54" target="WGKu-v9N4l2VmlCT97fO-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661.83" y="619" as="sourcePoint" />
+            <mxPoint x="661.83" y="689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-69" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGKu-v9N4l2VmlCT97fO-68">
+          <mxGeometry x="-0.087" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-72" target="WGKu-v9N4l2VmlCT97fO-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-72" value="กดปุ่ม History" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="832.75" y="500" width="144.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-54" target="WGKu-v9N4l2VmlCT97fO-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="620" as="sourcePoint" />
+            <mxPoint x="827" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-74" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGKu-v9N4l2VmlCT97fO-73">
+          <mxGeometry x="0.0182" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGKu-v9N4l2VmlCT97fO-75" target="WGKu-v9N4l2VmlCT97fO-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGKu-v9N4l2VmlCT97fO-75" value="แสดงประวัติการคำนวณ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="890" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
